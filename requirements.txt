@@ -1,0 +1,15 @@
+coverage==5.4
+email-validator==1.1.2
+filelock==3.0.12
+Flask==1.1.2
+Flask-Cors==3.0.10
+packaging==20.9
+py==1.10.0
+PyJWT==2.0.1
+pylint==2.6.0
+pylint-venv==2.1.1
+pytest==6.2.2
+requests==2.25.1
+urllib3==1.26.3
+Werkzeug==1.0.1
+zipp==3.4.0
