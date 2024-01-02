@@ -2,6 +2,8 @@
 
 **✨ Teamwork makes the [UNSW] Streams work 🌈**
 
+78/100
+
 ## Contents
 
   1.  Aims
